@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @basilaiageorgee
+- 👋 Hi, I’m George Basilaia, 17 years old  from Europe,Georgia.
 - 👀 I’m interested in Fullstack Developmet/Software Engineering
 - 🌱 I’m currently learning Javascript/React.js
 - 📫 How to reach me - basilaiageorge01@gmail.com

@@ -2,3 +2,4 @@
 - 👀 I’m interested in Fullstack Developmet/Software Engineering
 - 🌱 I’m currently learning Javascript/React.js
 - 📫 How to reach me - basilaiageorge01@gmail.com
+- Leetcode Profile - https://leetcode.com/basilaia/

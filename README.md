@@ -1,5 +1,4 @@
 - 👋 Hi, I’m George Basilaia, 18 years old  from Europe,Georgia.
 - 👀 I’m interested in Fullstack Developmet/Software Engineering
-- 🌱 I’m currently learning Javascript/React.js
+- 🌱 I’m currently learning Node/React
 - 📫 How to reach me - basilaiageorge01@gmail.com
-- Leetcode Profile - https://leetcode.com/basilaia/
